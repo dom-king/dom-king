@@ -1,4 +1,4 @@
-![Dom King - Software Engineer](https://dino-dev.com/assets/dk-card-front.png)
+![Dom King - Software Engineer](https://dinocode.dev/assets/dk-card-front.png)
 
 ### Hey, I'm Dom King! 🦖🦕
 
@@ -34,10 +34,10 @@
 ---
 
 ### 📘 Some of My Blog Posts
-- [Integrating ChatGPT into your career and life](https://dino-dev.com/integrating-chatgpt-into-your-career-and-life)
-- [The rise of Artificial Intelligence](https://dino-dev.com/rise-of-ai)
-- [The evolution and birth of conversational AI](https://dino-dev.com/birth-of-chatgpt)
-- [The transformative rise of IoT in the workplace](https://dino-dev.com/transformation-of-iot)
-- [The developer concentration cycle](https://dino-dev.com/developer-concentration-cycle)
+- [Integrating ChatGPT into your career and life](https://dinocode.dev/integrating-chatgpt-into-your-career-and-life)
+- [The rise of Artificial Intelligence](https://dinocode.dev/rise-of-ai)
+- [The evolution and birth of conversational AI](https://dinocode.dev/birth-of-chatgpt)
+- [The transformative rise of IoT in the workplace](https://dinocode.dev/transformation-of-iot)
+- [The developer concentration cycle](https://dinocode.dev/developer-concentration-cycle)
 
-![Dom King - Software Engineer](https://dino-dev.com/assets/dk-card-back.png)
+![Dom King - Software Engineer](https://dinocode.dev/assets/dk-card-back.png)
