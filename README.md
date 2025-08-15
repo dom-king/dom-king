@@ -14,6 +14,12 @@
 
 ---
 
+## 📊 GitHub Stats & Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dom-king&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dom-king&layout=compact&theme=radical)  
+
+---
+
 ## 🛠 Skills & Tech Stack
 
 **Languages & Frameworks:**  
@@ -32,27 +38,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
-**Other Interests:**  
-AI & Machine Learning, IoT & Arduino, automation tools, UX-focused web apps, fast and efficient developer workflows
-
----
-
-## 🌟 Featured Projects
-
-[![AI Chat Tool](https://img.shields.io/badge/-AI%20Chat%20Tool-FF6F00?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/dom-king/ai-chat-tool)  
-[![IoT Home Monitor](https://img.shields.io/badge/-IoT%20Home%20Monitor-42B883?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/dom-king/iot-home-monitor)  
-[![Flutter Game App](https://img.shields.io/badge/-Fun%20Flutter%20App-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/dom-king/flutter-game-app)
-
----
-
-## 📊 GitHub Stats & Activity
-![Dom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dom-king&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dom-king&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dom-king&theme=radical)  
-
 ---
 
 ## ⚡ Fun Fact
 I love experimenting with **AI tools, automation, and IoT projects** to make everyday developer tasks faster, smarter, and more engaging.
 
----
