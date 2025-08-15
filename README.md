@@ -1,43 +1,58 @@
-![Dom King - Software Engineer](https://dinocode.dev/assets/dk-card-front.png)
+# Hey there, I'm Dom King! ⚡🤖🦖
 
-### Hey, I'm Dom King! 🦖🦕
-
-## I'm an experienced Software Engineer in Cyber Security and API Driven Web Applications with a user-centric approach
-
-### Key Skills:  PHP Laravel, Javascript (Nuxt3 and Typescript), Vue2/3 and Flutter
-
-#### Additional Skills: Electrical engineering (Arduino, Raspberry Pi), User Experience
-
-#### Location: Manchester, UK
-
-- 💥 I build robust systems and web applications
-- 📚 I have a blog that focuses on identifying software evolution through metaphoric usage of dinosaurs - [Dino Dev](https://dino-dev.com/).
-- 🖥 I have a Masters Degree in UX allowing me to develop using a customer-centric approach
-- ⚡ I'm open to collaborating on other Laravel projects.
-- 🥅 2023 Goal: Contribute to more open-source projects and generate a good start on my blog. 
-
-### Languages and Tools
-
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-<img align="left" alt="Vue JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<br />
-<br />
+**Software Engineer | Cyber Security Enthusiast | AI & IoT Developer**  
+*Building smarter, faster, and more engaging apps with a user-first approach*
 
 ---
 
-### 📘 Some of My Blog Posts
-- [Integrating ChatGPT into your career and life](https://dinocode.dev/integrating-chatgpt-into-your-career-and-life)
-- [The rise of Artificial Intelligence](https://dinocode.dev/rise-of-ai)
-- [The evolution and birth of conversational AI](https://dinocode.dev/birth-of-chatgpt)
-- [The transformative rise of IoT in the workplace](https://dinocode.dev/transformation-of-iot)
-- [The developer concentration cycle](https://dinocode.dev/developer-concentration-cycle)
+## 🚀 What I Do
+- 💻 Build **AI-powered apps** and tools that improve developer productivity  
+- ⚡ Create **IoT & Arduino projects**, connecting the physical and digital world  
+- 🛠 Design **fun, engaging, and user-centric web and mobile applications**  
+- 🌱 Explore **cutting-edge developer tools, automation, and AI integrations**  
+- 📍 Based in **Manchester, UK**
 
-![Dom King - Software Engineer](https://dinocode.dev/assets/dk-card-back.png)
+---
+
+## 🛠 Skills & Tech Stack
+
+**Languages & Frameworks:**  
+![Laravel](https://img.shields.io/badge/-Laravel-EF3F3F?style=for-the-badge&logo=laravel&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/-Vue-42B883?style=for-the-badge&logo=vue.js&logoColor=white) 
+![Nuxt.js](https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white) 
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+
+**Databases & Tools:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+**Other Interests:**  
+AI & Machine Learning, IoT & Arduino, automation tools, UX-focused web apps, fast and efficient developer workflows
+
+---
+
+## 🌟 Featured Projects
+
+[![AI Chat Tool](https://img.shields.io/badge/-AI%20Chat%20Tool-FF6F00?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/dom-king/ai-chat-tool)  
+[![IoT Home Monitor](https://img.shields.io/badge/-IoT%20Home%20Monitor-42B883?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/dom-king/iot-home-monitor)  
+[![Flutter Game App](https://img.shields.io/badge/-Fun%20Flutter%20App-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/dom-king/flutter-game-app)
+
+---
+
+## 📊 GitHub Stats & Activity
+![Dom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dom-king&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dom-king&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dom-king&theme=radical)  
+
+---
+
+## ⚡ Fun Fact
+I love experimenting with **AI tools, automation, and IoT projects** to make everyday developer tasks faster, smarter, and more engaging.
+
+---
