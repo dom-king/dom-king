@@ -1,19 +1,27 @@
-# Hey there, I'm Dom King! ⚡🤖🦖
+# Dom King
 
-**Software Engineer | Cyber Security Enthusiast | AI & IoT Developer**  
-*Building smarter, faster, and more engaging apps with a user-first approach*
+**Senior Software Engineer · Manchester, UK**
+
+I build software, APIs and developer tools with a focus on clean architecture, practical engineering and thoughtful product design.
+
+My work spans backend engineering, web applications and AI-powered development workflows. I enjoy solving complex problems, exploring new technologies and turning ideas into useful, well-engineered products.
+
+### Areas of interest
+
+- Backend engineering & API design
+- AI engineering & agentic development
+- Developer tooling & automation
+- Software architecture & system design
+- IoT & hardware integrations
+
+### Technologies
+
+**Languages & Frameworks:** PHP · Laravel · JavaScript · Vue.js
+
+**AI & Development:** Claude · LLMs · AI-assisted engineering · Automation
+
+**Interests:** APIs · Distributed systems · Developer experience · Open source
 
 ---
 
-## 🚀 What I Do
-- 💻 Build **AI-powered apps** and tools that improve developer productivity  
-- ⚡ Create **IoT & Arduino projects**, connecting the physical and digital world  
-- 🛠 Design **fun, engaging, and user-centric web and mobile applications**  
-- 🌱 Explore **cutting-edge developer tools, automation, and AI integrations**  
-- 📍 Based in **Manchester, UK**
-
----
-
-## 📊 GitHub Stats & Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dom-king&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dom-king&layout=compact&theme=radical)  
+*Always building, learning and experimenting.*
